@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MonkeyHUBB/monkeyhub-sl2/main/README.md"))()

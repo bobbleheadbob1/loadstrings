@@ -1,0 +1,1 @@
+game.Players.LocalPlayer.Valuestats.Stamina.Value = 99999999
